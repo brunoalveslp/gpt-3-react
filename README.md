@@ -1,6 +1,6 @@
 # GP3 - React project
 
-### A React/JS 
+### A React/JS SPA gpt-3 clone
 
 ### Link for the page in production
 [ Click Here ](https://gpt-3-react-jynsprdxc-brunoalveslp.vercel.app/)
